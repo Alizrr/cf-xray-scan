@@ -10,8 +10,6 @@ every IP it actually brings up **your** config's tunnel through that IP and meas
 the real upload speed inside it. So the numbers you get are the numbers you'll
 actually have when you connect.
 
-> Read this in Persian: [README.fa.md](README.fa.md)
-
 ## Why I made it
 
 Most scanners answer "which Cloudflare IP is fast in general?". The question I
