@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Scan outputs
+cf_xray_results.csv
+cf_results.csv
+best_configs.txt
+
+# Local IP lists / scratch
+ips.txt
+*.local
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
